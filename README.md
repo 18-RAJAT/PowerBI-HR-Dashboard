@@ -15,7 +15,6 @@ It is designed to help HR departments make data-driven decisions by presenting c
   - [Qualification Analysis](#qualification-analysis)
 - [How to Use](#how-to-use)
 - [Files Included](#files-included)
-- [Contact](#contact)
 
 ## Overview
 
